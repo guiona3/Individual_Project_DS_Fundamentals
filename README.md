@@ -1,6 +1,6 @@
 # Individual_Project_DS_Fundamentals
 
-The objective of this project is to 
+Cannabis has been legal for recreational use in Connecticut since July 1st, 2021. While cannabis is legal, since it is a drug, it is 
 
 Questions:
 
