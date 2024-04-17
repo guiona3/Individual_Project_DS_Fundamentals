@@ -19,5 +19,5 @@ In disproportionately impacted areas, there is a statistically significant relat
 An area's population size is a poor indicator for predicting the conviction rate, with an $R^2$ value of 0.06495. For every unit increase in the census population, the conviction rate decreases by $-2.216853406310218 \times 10^{-5}$, which is not zero, so there is a fairly insignificant correlation.
 
 #### Discussion:
-
+Poverty rates being the most statistically significant factor in conviction rate is not
 
