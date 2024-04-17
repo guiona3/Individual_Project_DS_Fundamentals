@@ -16,5 +16,5 @@ In order to answer the questions, I used the Python tools ``matplotlib.pyplot`` 
 I determined with multiple linear regression models that the poverty rate has the highest significance in a model with conviction rate as the response variable. 
 
 In disproportionately impacted areas, there is a statistically significant relationship between poverty and conviction rate, as the $\beta$ coefficient is not close to zero, and the p-value is much smaller than 0.05. 
-An area's population size is a poor indicator for predicting the conviction rate, with an $R^2$ value of 0.06495. For every unit increase in the census population, the conviction rate decreases by $-2.216853406310218 x 10^{-5}$, which is not zero, so there is a fairly insignificant correlation.
+An area's population size is a poor indicator for predicting the conviction rate, with an $R^2$ value of 0.06495. For every unit increase in the census population, the conviction rate decreases by $-2.216853406310218 \times 10^{-5}$, which is not zero, so there is a fairly insignificant correlation.
 
