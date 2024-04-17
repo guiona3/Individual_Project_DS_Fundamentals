@@ -15,5 +15,5 @@ On July 1st, 2023, Public Act 23-79 went into effect in Connecticut, legalizing 
 
 The data comes from public CT government data and is published by data.ct.gov. I did have to do a little bit of cleaning of the data, as there was an error in one of the rows where there may have been some kind of formatting error. There are also some incomplete entries which are excluded from my calculations.
 
-In order to answer the questions, I used ``pandas`` as ``pd``, ``sklearn.linear_model`` as ``LinearRegression``, and ``seaborn`` as ``sns``.
+In order to answer the questions, I used ``matplotlib.pyplot`` as ``plt``, ``pandas`` as ``pd``, ``sklearn.linear_model`` as ``LinearRegression``, ``scipy`` for ``stats``, and ``seaborn`` as ``sns``.
 
